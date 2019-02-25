@@ -16,7 +16,7 @@
 
 1. [Image Processing Basics](https://github.com/jackersson/cv-course-vntu/tree/master/image-processing-basics)
 
-    jupyter notebook
+       jupyter notebook
 
 
 ### [Help](https://docs.google.com/document/d/1DoLfSMpU2_sZILJTonsvdk7ku7Jf6BdJCvfAZJJ96nY)
