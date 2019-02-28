@@ -16,10 +16,11 @@
 
 1. [Image Processing Basics](https://github.com/jackersson/cv-course-vntu/tree/master/image-processing-basics)
 
-    jupyter notebook
+       jupyter notebook
 
 
 ### [Help](https://docs.google.com/document/d/1DoLfSMpU2_sZILJTonsvdk7ku7Jf6BdJCvfAZJJ96nY)
+<<<<<<< HEAD
 
 
 ### Enable Python Widgets
@@ -27,3 +28,5 @@
 
     pip install ipywidgets
     jupyter nbextension enable --py widgetsnbextension
+=======
+>>>>>>> 80ff4fd4aa5ed219ad0338678bd7372ee48c80c6
