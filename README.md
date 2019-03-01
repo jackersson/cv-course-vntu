@@ -20,13 +20,12 @@
 
 
 ### [Help](https://docs.google.com/document/d/1DoLfSMpU2_sZILJTonsvdk7ku7Jf6BdJCvfAZJJ96nY)
-<<<<<<< HEAD
+
 
 
 ### Enable Python Widgets
 - [IPython Widgets](https://ipywidgets.readthedocs.io/en/stable/user_install.html)
 
-    pip install ipywidgets
-    jupyter nbextension enable --py widgetsnbextension
-=======
->>>>>>> 80ff4fd4aa5ed219ad0338678bd7372ee48c80c6
+       pip install ipywidgets
+       jupyter nbextension enable --py widgetsnbextension
+
