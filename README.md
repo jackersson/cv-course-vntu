@@ -29,6 +29,6 @@
 ### Enable Python Widgets
 - [IPython Widgets](https://ipywidgets.readthedocs.io/en/stable/user_install.html)
 
-    pip install ipywidgets
-    jupyter nbextension enable --py widgetsnbextension
+       pip install ipywidgets
+       jupyter nbextension enable --py widgetsnbextension
 
