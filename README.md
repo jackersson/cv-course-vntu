@@ -10,6 +10,9 @@
     # Make Venv Visible in jupyter notebook
     python3 -m ipykernel install --user --name venv --display-name "cv_course"
 
+### Prerequisites
+- [Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
+- [Google Cloud Engine](http://cs231n.github.io/gce-tutorial/)
 
 
 ### Syllabus
@@ -20,7 +23,7 @@
 
 
 ### [Help](https://docs.google.com/document/d/1DoLfSMpU2_sZILJTonsvdk7ku7Jf6BdJCvfAZJJ96nY)
-<<<<<<< HEAD
+
 
 
 ### Enable Python Widgets
@@ -28,5 +31,4 @@
 
     pip install ipywidgets
     jupyter nbextension enable --py widgetsnbextension
-=======
->>>>>>> 80ff4fd4aa5ed219ad0338678bd7372ee48c80c6
+
